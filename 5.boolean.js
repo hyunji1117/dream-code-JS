@@ -34,3 +34,5 @@ console.log(!!-1);
 console.log(!!'text');
 console.log(!!{}); //object 값
 console.log(!!Infinity);
+
+// https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Boolean
