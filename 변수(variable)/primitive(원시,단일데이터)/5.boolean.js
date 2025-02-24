@@ -16,7 +16,7 @@ console.log(isActivated);
 console.log(isEnrolled);
 
 
-console.clear(); //이전 값은 다 지우고 이후 값만 출력
+// console.clear(); //이전 값은 다 지우고 이후 값만 출력
 //향후 조건문을 배우고 특정 값이 조건값에 들어갔을 때 true인지 false인지 구분해주는 중요한 정보이다. 
 
 //Falsy 거짓인 값
