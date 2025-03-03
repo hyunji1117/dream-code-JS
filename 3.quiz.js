@@ -30,13 +30,13 @@ if (num % 2 === 0) {
   console.log('👍');
 } else {
   console.log('👎');
-}
+} // 👍
 
 // ternary operator로 작성하기
 // 1. 무언가를 실행하는 방식으로 사용 가능
-num % 2 === 0 ? console.log('👍') : console.log('👎')
+num % 2 === 0 ? console.log('👍') : console.log('👎') // 👍
 
 // ternary operator로 작성하기
 // 2. ternary 간결한 방법
 let emoji = num % 2 === 0 ? '👍' : '👎';
-console.log(emoji);
+console.log(emoji); // 👍
