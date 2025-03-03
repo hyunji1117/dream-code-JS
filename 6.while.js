@@ -20,7 +20,7 @@ while (isActive) { // isActive가 flase가 될 때까지 계속 실행해 줄 �
   i++;
 }
 
-// do-while는 무조건 먼저 실행하고 반복한다. 
+// do-while는 꼭 한번 무조건 실행해야할 때 사용한다.  
 
 do {
     console.log('do-while 아직 살아있다!');
